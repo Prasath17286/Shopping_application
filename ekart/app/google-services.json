@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159452304906",
+    "project_id": "gift-store-firebase",
+    "storage_bucket": "gift-store-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159452304906:android:6bcbac0fa1d806cd4131f3",
+        "android_client_info": {
+          "package_name": "com.GiftStore.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159452304906-el6akesl7be77c2eu70oa5grj8u5tc28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzRd7g00bJFqeSbq7MTV25pvzQMKD9I30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159452304906-el6akesl7be77c2eu70oa5grj8u5tc28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
